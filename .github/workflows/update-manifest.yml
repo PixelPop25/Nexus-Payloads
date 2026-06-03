@@ -5,7 +5,7 @@ on:
     branches: [ main, master ]
     paths:
       - 'Luac0re/**'
-      - 'Y2jb/**'
+      - 'Y2JB/**'
       - 'Payloads/**'
       - '.github/workflows/update-manifest.yml'
       - '.github/scripts/generate_manifest.py'
