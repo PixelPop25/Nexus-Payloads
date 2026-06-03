@@ -1,38 +1,16 @@
 {
-  "luac0re": [
-    {
-      "id": "lua_p2jb",
-      "name": "P2JB Execution Script",
-      "file": "Luac0re/p2jb.lua"
-    },
-    {
-      "id": "lua_poops",
-      "name": "Poops Payload",
-      "file": "Luac0re/poops.lua"
-    }
-  ],
-  "y2jb": [
-    {
-      "id": "y2_lapse",
-      "name": "Lapse Core",
-      "file": "Y2jb/lapse.js"
-    },
-    {
-      "id": "y2_p2jb",
-      "name": "P2JB (JS Implementation)",
-      "file": "Y2jb/p2jb.js"
-    }
-  ],
+  "luac0re": [],
+  "y2jb": [],
   "payloads": [
     {
-      "id": "pl_kstuff",
-      "name": "K-Stuff Lite v1.06b",
-      "file": "Payloads/kstuff_lite1.06b.elf"
+      "id": "pl_etahen_2_5b",
+      "name": "Etahen 2.5B",
+      "file": "Payloads/etaHEN-2.5B.elf"
     },
     {
-      "id": "pl_etahen",
-      "name": "etaHEN v2.5B",
-      "file": "Payloads/etaHEN-2.5B.bin"
+      "id": "pl_ps5_ps4fw_spoof_1",
+      "name": "Ps5 Ps4Fw Spoof 1",
+      "file": "Payloads/ps5-ps4fw-spoof-1.elf"
     }
   ]
 }
