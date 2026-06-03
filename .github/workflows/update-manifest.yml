@@ -8,7 +8,7 @@ on:
       - 'Y2jb/**'
       - 'Payloads/**'
       - '.github/workflows/update-manifest.yml'
-      - '.github/scripts/generate_manifest.py'   # Added this
+      - '.github/scripts/generate_manifest.py'
   pull_request:
     branches: [ main, master ]
     paths:
@@ -17,6 +17,10 @@ on:
       - 'Payloads/**'
   workflow_dispatch:
 
+# Grant write permissions
+permissions:
+  contents: write
+
 jobs:
   update-manifest:
     runs-on: ubuntu-latest
@@ -24,17 +28,17 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}   # Important
+          fetch-depth: 0
 
       - name: Verify script exists
         run: |
-          echo "📂 Checking files..."
+          echo "✅ Checking files..."
           ls -la .github/scripts/
-          ls -la .github/
           if [ ! -f .github/scripts/generate_manifest.py ]; then
-            echo "❌ ERROR: generate_manifest.py not found!"
+            echo "❌ generate_manifest.py not found!"
             exit 1
-          else
-            echo "✅ generate_manifest.py found"
           fi
 
       - name: Set up Python
@@ -56,4 +60,5 @@ jobs:
             git add manifest.json
             git commit -m "chore: auto-update manifest.json"
             git push
+            echo "✅ manifest.json updated and pushed"
           fi
