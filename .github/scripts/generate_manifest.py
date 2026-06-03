@@ -1,4 +1,3 @@
-import os
 import json
 from pathlib import Path
 
@@ -17,14 +16,17 @@ def get_display_name(filename: str) -> str:
 
 def scan_directory(directory: str, category: str):
     entries = []
-    base_path = Path(directory)
+    base_path = Path(directory).resolve()  # Use resolve() for absolute path
     
     if not base_path.exists():
+        print(f"⚠️ Directory {directory} not found, skipping...")
         return entries
         
     for file in sorted(base_path.rglob("*")):
         if file.is_file():
-            rel_path = file.relative_to(Path.cwd())
+            # Get relative path from repo root safely
+            repo_root = Path.cwd().resolve()
+            rel_path = file.resolve().relative_to(repo_root)
             
             entry = {
                 "id": generate_id(category, file.name),
@@ -46,6 +48,9 @@ def main():
         json.dump(manifest, f, indent=2, ensure_ascii=False)
     
     print("✅ manifest.json successfully generated!")
+    print(f"   luac0re: {len(manifest['luac0re'])} entries")
+    print(f"   y2jb:    {len(manifest['y2jb'])} entries")
+    print(f"   payloads: {len(manifest['payloads'])} entries")
 
 if __name__ == "__main__":
     main()
