@@ -39,7 +39,7 @@ def scan_directory(directory: str, category: str):
 
 def main():
     manifest = {
-        "luac0re": scan_directory("Luac0re", "lua"),
+        "luac0re": scan_directory("LuaC0re", "lua"),
         "y2jb": scan_directory("Y2JB", "y2"),
         "payloads": scan_directory("Payloads", "pl")
     }
