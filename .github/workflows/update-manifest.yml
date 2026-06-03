@@ -8,6 +8,7 @@ on:
       - 'Y2jb/**'
       - 'Payloads/**'
       - '.github/workflows/update-manifest.yml'
+      - '.github/scripts/generate_manifest.py'   # Added this
   pull_request:
     branches: [ main, master ]
     paths:
@@ -23,8 +24,18 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
+
+      - name: Verify script exists
+        run: |
+          echo "📂 Checking files..."
+          ls -la .github/scripts/
+          ls -la .github/
+          if [ ! -f .github/scripts/generate_manifest.py ]; then
+            echo "❌ ERROR: generate_manifest.py not found!"
+            exit 1
+          else
+            echo "✅ generate_manifest.py found"
+          fi
 
       - name: Set up Python
         uses: actions/setup-python@v5
