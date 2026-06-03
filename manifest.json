@@ -1,5 +1,16 @@
 {
-  "luac0re": [],
+  "luac0re": [
+    {
+      "id": "lua_p2jb",
+      "name": "P2Jb",
+      "file": "LuaC0re/P2JB.lua"
+    },
+    {
+      "id": "lua_poops",
+      "name": "Poops",
+      "file": "LuaC0re/poops.lua"
+    }
+  ],
   "y2jb": [
     {
       "id": "y2_lapse",
