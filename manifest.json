@@ -1,6 +1,17 @@
 {
   "luac0re": [],
-  "y2jb": [],
+  "y2jb": [
+    {
+      "id": "y2_lapse",
+      "name": "Lapse",
+      "file": "Y2JB/lapse.js"
+    },
+    {
+      "id": "y2_p2jb",
+      "name": "P2Jb",
+      "file": "Y2JB/p2jb.js"
+    }
+  ],
   "payloads": [
     {
       "id": "pl_etahen_2_5b",
