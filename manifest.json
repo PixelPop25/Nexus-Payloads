@@ -30,6 +30,16 @@
       "file": "Payloads/etaHEN-2.5B.elf"
     },
     {
+      "id": "pl_kstuff_1_6_7_10_01",
+      "name": "Kstuff 1.6.7 10.01",
+      "file": "Payloads/kstuff_1.6.7_10.01.elf"
+    },
+    {
+      "id": "pl_kstuff_lite_1_2_dr_12_70",
+      "name": "Kstuff Lite 1.2 Dr 12.70",
+      "file": "Payloads/kstuff_Lite_1.2-dr_12.70.elf"
+    },
+    {
       "id": "pl_ps5_ps4fw_spoof_1",
       "name": "Ps5 Ps4Fw Spoof 1",
       "file": "Payloads/ps5-ps4fw-spoof-1.elf"
