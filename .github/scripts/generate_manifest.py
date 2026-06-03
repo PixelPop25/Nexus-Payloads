@@ -1,0 +1,51 @@
+import os
+import json
+from pathlib import Path
+
+def generate_id(category: str, filename: str) -> str:
+    """Generate clean ID (e.g. lua_p2jb, pl_kstuff)"""
+    stem = Path(filename).stem.lower()
+    stem = stem.replace(" ", "_").replace("-", "_").replace(".", "_")
+    prefix = category.lower()
+    return f"{prefix}_{stem}" if not stem.startswith(prefix) else stem
+
+def get_display_name(filename: str) -> str:
+    """Generate nice display name"""
+    name = Path(filename).stem
+    name = name.replace("_", " ").replace("-", " ").strip()
+    return name.title()
+
+def scan_directory(directory: str, category: str):
+    entries = []
+    base_path = Path(directory)
+    
+    if not base_path.exists():
+        return entries
+        
+    for file in sorted(base_path.rglob("*")):
+        if file.is_file():
+            rel_path = file.relative_to(Path.cwd())
+            
+            entry = {
+                "id": generate_id(category, file.name),
+                "name": get_display_name(file.name),
+                "file": str(rel_path).replace("\\", "/")
+            }
+            entries.append(entry)
+    
+    return entries
+
+def main():
+    manifest = {
+        "luac0re": scan_directory("Luac0re", "lua"),
+        "y2jb": scan_directory("Y2jb", "y2"),
+        "payloads": scan_directory("Payloads", "pl")
+    }
+
+    with open("manifest.json", "w", encoding="utf-8") as f:
+        json.dump(manifest, f, indent=2, ensure_ascii=False)
+    
+    print("✅ manifest.json successfully generated!")
+
+if __name__ == "__main__":
+    main()
