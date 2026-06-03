@@ -1,0 +1,48 @@
+name: Update Manifest JSON
+
+on:
+  push:
+    branches: [ main, master ]
+    paths:
+      - 'Luac0re/**'
+      - 'Y2jb/**'
+      - 'Payloads/**'
+      - '.github/workflows/update-manifest.yml'
+  pull_request:
+    branches: [ main, master ]
+    paths:
+      - 'Luac0re/**'
+      - 'Y2jb/**'
+      - 'Payloads/**'
+  workflow_dispatch:
+
+jobs:
+  update-manifest:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Generate manifest.json
+        run: python .github/scripts/generate_manifest.py
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          
+          if git diff --quiet manifest.json; then
+            echo "No changes to manifest.json"
+          else
+            git add manifest.json
+            git commit -m "chore: auto-update manifest.json"
+            git push
+          fi
