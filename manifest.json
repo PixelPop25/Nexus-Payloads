@@ -11,6 +11,11 @@
       "id": "pl_ps5_ps4fw_spoof_1",
       "name": "Ps5 Ps4Fw Spoof 1",
       "file": "Payloads/ps5-ps4fw-spoof-1.elf"
+    },
+    {
+      "id": "pl_shadowmountplus_1_06b14",
+      "name": "Shadowmountplus 1.06B14",
+      "file": "Payloads/shadowmountplus_1.06b14.elf"
     }
   ]
 }
