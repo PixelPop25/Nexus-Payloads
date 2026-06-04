@@ -25,9 +25,19 @@
   ],
   "payloads": [
     {
+      "id": "pl_cheatrunner",
+      "name": "Cheatrunner",
+      "file": "Payloads/CheatRunner.elf"
+    },
+    {
       "id": "pl_etahen_2_5b",
       "name": "Etahen 2.5B",
       "file": "Payloads/etaHEN-2.5B.elf"
+    },
+    {
+      "id": "pl_ftpsrv_ps5",
+      "name": "Ftpsrv Ps5",
+      "file": "Payloads/ftpsrv-ps5.elf"
     },
     {
       "id": "pl_kstuff_1_6_7_10_01",
