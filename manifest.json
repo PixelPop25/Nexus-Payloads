@@ -65,6 +65,21 @@
       "file": "Payloads/lapy_jb_daemon.elf"
     },
     {
+      "id": "pl_nanodns_ps4",
+      "name": "Nanodns Ps4",
+      "file": "Payloads/nanodns-ps4.elf"
+    },
+    {
+      "id": "pl_nanodns",
+      "name": "Nanodns",
+      "file": "Payloads/nanodns.elf"
+    },
+    {
+      "id": "pl_ps5_linux_loader",
+      "name": "Ps5 Linux Loader",
+      "file": "Payloads/ps5-linux-loader.elf"
+    },
+    {
       "id": "pl_ps5_ps4fw_spoof_1",
       "name": "Ps5 Ps4Fw Spoof 1",
       "file": "Payloads/ps5-ps4fw-spoof-1.elf"
