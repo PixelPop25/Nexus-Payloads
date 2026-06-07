@@ -30,6 +30,11 @@
       "file": "Payloads/CheatRunner.elf"
     },
     {
+      "id": "pl_shadowmountplus_1_6test15_fix2",
+      "name": "Shadowmountplus 1.6Test15 Fix2",
+      "file": "Payloads/ShadowMountPlus_1.6test15-fix2.elf"
+    },
+    {
       "id": "pl_bypervisor5xx",
       "name": "Bypervisor5Xx",
       "file": "Payloads/bypervisor5XX.elf"
