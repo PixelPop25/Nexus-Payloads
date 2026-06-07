@@ -23,6 +23,20 @@
       "file": "Y2JB/p2jb.js"
     }
   ],
+  "lua": [
+    {
+      "id": "lu_p2jb",
+      "name": "P2Jb",
+      "file": "LUA/P2JB.lua"
+    }
+  ],
+  "Yarp2jb": [
+    {
+      "id": "py_p2jb",
+      "name": "P2Jb",
+      "file": "YarP2JB/p2jb.py"
+    }
+  ],
   "payloads": [
     {
       "id": "pl_cheatrunner",
