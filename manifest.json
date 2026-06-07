@@ -30,7 +30,7 @@
       "file": "LUA/P2JB.lua"
     }
   ],
-  "Yarp2jb": [
+  "yarp2jb": [
     {
       "id": "py_p2jb",
       "name": "P2Jb",
