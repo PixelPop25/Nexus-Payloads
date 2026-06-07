@@ -26,17 +26,17 @@
   "payloads": [
     {
       "id": "pl_cheatrunner",
-      "name": "Cheatrunner (latest)",
+      "name": "Cheatrunner ~latest~",
       "file": "Payloads/CheatRunner.elf"
     },
     {
       "id": "pl_offact",
-      "name": "Offline activator (latest)",
+      "name": "Offline activator ~latest~",
       "file": "Payloads/OffAct.elf"
     },
     {
       "id": "pl_shadowmountplus_1_6test15_fix2",
-      "name": "Shadowmountplus 1.6Test15 Fix2 (latest)",
+      "name": "Shadowmountplus 1.6T15 ~latest~",
       "file": "Payloads/ShadowMountPlus_1.6test15-fix2.elf"
     },
     {
@@ -46,7 +46,7 @@
     },
     {
       "id": "pl_dump_installer",
-      "name": "Dump Installer 1.0.5 (latest)",
+      "name": "Dump Installer 1.0.5 ~latest~ ",
       "file": "Payloads/dump_installer.elf"
     },
     {
@@ -56,7 +56,7 @@
     },
     {
       "id": "pl_ftpsrv_ps5",
-      "name": "Ftpsrv Ps5",
+      "name": "Ftp server Ps5",
       "file": "Payloads/ftpsrv-ps5.elf"
     },
     {
@@ -71,7 +71,7 @@
     },
     {
       "id": "pl_kstuff_1_0_7_test2",
-      "name": "Kstuff 1.0.7 Test2",
+      "name": "Kstuff 1.0.7 Test2 ~latest~",
       "file": "Payloads/kstuff_1.0.7_test2.elf"
     },
     {
@@ -101,12 +101,12 @@
     },
     {
       "id": "pl_ps5_linux_loader",
-      "name": "Ps5 Linux Loader",
+      "name": "Ps5 Linux Loader ~latest~",
       "file": "Payloads/ps5-linux-loader.elf"
     },
     {
       "id": "pl_ps5_ps4fw_spoof_1",
-      "name": "Ps5 Ps4Fw Spoofer",
+      "name": "Ps5 Ps4Fw Spoofer ",
       "file": "Payloads/ps5-ps4fw-spoof-1.elf"
     },
     {
