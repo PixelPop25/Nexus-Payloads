@@ -26,27 +26,27 @@
   "payloads": [
     {
       "id": "pl_cheatrunner",
-      "name": "Cheatrunner",
+      "name": "Cheatrunner (latest)",
       "file": "Payloads/CheatRunner.elf"
     },
     {
       "id": "pl_offact",
-      "name": "Offact",
+      "name": "Offact (latest)",
       "file": "Payloads/OffAct.elf"
     },
     {
       "id": "pl_shadowmountplus_1_6test15_fix2",
-      "name": "Shadowmountplus 1.6Test15 Fix2",
+      "name": "Shadowmountplus 1.6Test15 Fix2 (latest)",
       "file": "Payloads/ShadowMountPlus_1.6test15-fix2.elf"
     },
     {
       "id": "pl_bypervisor5xx",
-      "name": "Bypervisor5Xx",
+      "name": "Bypervisor 5xx Only",
       "file": "Payloads/bypervisor5XX.elf"
     },
     {
       "id": "pl_dump_installer",
-      "name": "Dump Installer",
+      "name": "Dump Installer 1.0.5 (latest)",
       "file": "Payloads/dump_installer.elf"
     },
     {
@@ -61,7 +61,7 @@
     },
     {
       "id": "pl_hwinfo_bench",
-      "name": "Hwinfo Bench",
+      "name": "Hwinfo Bench ",
       "file": "Payloads/hwinfo_bench.elf"
     },
     {
@@ -76,12 +76,12 @@
     },
     {
       "id": "pl_kstuff_1_6_7_10_01",
-      "name": "Kstuff 1.6.7 10.01",
+      "name": "Kstuff 1.6.7 fw 10.01 only",
       "file": "Payloads/kstuff_1.6.7_10.01.elf"
     },
     {
       "id": "pl_kstuff_lite_1_2_dr_12_70",
-      "name": "Kstuff Lite 1.2 Dr 12.70",
+      "name": "Kstuff Lite 1.2 Dr fw 12.70",
       "file": "Payloads/kstuff_Lite_1.2-dr_12.70.elf"
     },
     {
@@ -96,7 +96,7 @@
     },
     {
       "id": "pl_nanodns",
-      "name": "Nanodns",
+      "name": "Nanodns PS5",
       "file": "Payloads/nanodns.elf"
     },
     {
@@ -106,7 +106,7 @@
     },
     {
       "id": "pl_ps5_ps4fw_spoof_1",
-      "name": "Ps5 Ps4Fw Spoof 1",
+      "name": "Ps5 Ps4Fw Spoofer",
       "file": "Payloads/ps5-ps4fw-spoof-1.elf"
     },
     {
