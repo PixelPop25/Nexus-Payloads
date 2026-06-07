@@ -30,6 +30,11 @@
       "file": "Payloads/CheatRunner.elf"
     },
     {
+      "id": "pl_bypervisor5xx",
+      "name": "Bypervisor5Xx",
+      "file": "Payloads/bypervisor5XX.elf"
+    },
+    {
       "id": "pl_etahen_2_5b",
       "name": "Etahen 2.5B",
       "file": "Payloads/etaHEN-2.5B.elf"
@@ -40,6 +45,11 @@
       "file": "Payloads/ftpsrv-ps5.elf"
     },
     {
+      "id": "pl_kstuff_1_0_7_test2",
+      "name": "Kstuff 1.0.7 Test2",
+      "file": "Payloads/kstuff_1.0.7_test2.elf"
+    },
+    {
       "id": "pl_kstuff_1_6_7_10_01",
       "name": "Kstuff 1.6.7 10.01",
       "file": "Payloads/kstuff_1.6.7_10.01.elf"
@@ -48,6 +58,11 @@
       "id": "pl_kstuff_lite_1_2_dr_12_70",
       "name": "Kstuff Lite 1.2 Dr 12.70",
       "file": "Payloads/kstuff_Lite_1.2-dr_12.70.elf"
+    },
+    {
+      "id": "pl_lapy_jb_daemon",
+      "name": "Lapy Jb Daemon",
+      "file": "Payloads/lapy_jb_daemon.elf"
     },
     {
       "id": "pl_ps5_ps4fw_spoof_1",
