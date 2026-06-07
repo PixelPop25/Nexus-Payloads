@@ -41,6 +41,8 @@ def main():
     manifest = {
         "luac0re": scan_directory("LuaC0re", "lua"),
         "y2jb": scan_directory("Y2JB", "y2"),
+        "lua": scan_directory("LUA", "lu"),
+        "Yarp2jb": scan_directory("YarP2JB", "py"),
         "payloads": scan_directory("Payloads", "pl")
     }
 
