@@ -39,9 +39,24 @@
   ],
   "payloads": [
     {
+      "id": "pl_bdj_unpatch_1340",
+      "name": "Bdj Unpatch 1340",
+      "file": "Payloads/Bdj_unpatch_1340.elf"
+    },
+    {
       "id": "pl_cheatrunner",
       "name": "Cheatrunner",
       "file": "Payloads/CheatRunner.elf"
+    },
+    {
+      "id": "pl_dump_installer_1_0_6_beta",
+      "name": "Dump Installer 1.0.6 Beta",
+      "file": "Payloads/Dump_installer 1.0.6 Beta.elf"
+    },
+    {
+      "id": "pl_kstuff_lite_1_07_beta",
+      "name": "Kstuff Lite 1.07 Beta",
+      "file": "Payloads/Kstuff Lite 1.07 Beta.elf"
     },
     {
       "id": "pl_shadowmountplus_1_6test15_fix2",
