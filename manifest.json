@@ -84,6 +84,11 @@
       "file": "Payloads/ftpsrv-ps5.elf"
     },
     {
+      "id": "pl_garlic_savemgr_v1_10",
+      "name": "Garlic Savemgr V1.10",
+      "file": "Payloads/garlic-savemgr v1.10.elf"
+    },
+    {
       "id": "pl_hwinfo_bench",
       "name": "Hwinfo Bench",
       "file": "Payloads/hwinfo_bench.elf"
