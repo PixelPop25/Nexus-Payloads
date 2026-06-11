@@ -84,6 +84,16 @@
       "file": "Payloads/etaHEN-2.5B.elf"
     },
     {
+      "id": "pl_etahen_2_6b",
+      "name": "Etahen 2.6B",
+      "file": "Payloads/etaHEN-2.6B.bin"
+    },
+    {
+      "id": "pl_ezremote_dpi",
+      "name": "Ezremote Dpi",
+      "file": "Payloads/ezremote-dpi.elf"
+    },
+    {
       "id": "pl_ftpsrv_ps5",
       "name": "Ftpsrv Ps5",
       "file": "Payloads/ftpsrv-ps5.elf"
@@ -129,6 +139,21 @@
       "file": "Payloads/nanodns.elf"
     },
     {
+      "id": "pl_ps5_app_dumper",
+      "name": "Ps5 App Dumper",
+      "file": "Payloads/ps5-app-dumper.elf"
+    },
+    {
+      "id": "pl_ps5_backpork",
+      "name": "Ps5 Backpork",
+      "file": "Payloads/ps5-backpork.elf"
+    },
+    {
+      "id": "pl_ps5_hen",
+      "name": "Ps5 Hen",
+      "file": "Payloads/ps5-hen.elf"
+    },
+    {
       "id": "pl_ps5_linux_loader",
       "name": "Ps5 Linux Loader",
       "file": "Payloads/ps5-linux-loader.elf"
@@ -142,6 +167,11 @@
       "id": "pl_shadowmountplus_1_06b14",
       "name": "Shadowmountplus 1.06B14",
       "file": "Payloads/shadowmountplus_1.06b14.elf"
+    },
+    {
+      "id": "pl_voidshell",
+      "name": "Voidshell",
+      "file": "Payloads/voidshell.elf"
     }
   ]
 }
