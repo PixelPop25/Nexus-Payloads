@@ -79,9 +79,19 @@
       "file": "Payloads/dump_installer.elf"
     },
     {
+      "id": "pl_elfldr",
+      "name": "Elfldr",
+      "file": "Payloads/elfldr.elf"
+    },
+    {
       "id": "pl_etahen_2_5b",
       "name": "Etahen 2.5B",
       "file": "Payloads/etaHEN-2.5B.elf"
+    },
+    {
+      "id": "pl_etahen_2_6b",
+      "name": "Etahen 2.6B",
+      "file": "Payloads/etaHEN-2.6B.bin"
     },
     {
       "id": "pl_ezremote_dpi",
@@ -97,6 +107,16 @@
       "id": "pl_garlic_savemgr_v1_10",
       "name": "Garlic Savemgr V1.10",
       "file": "Payloads/garlic-savemgr v1.10.elf"
+    },
+    {
+      "id": "pl_garlic_worker_ps4",
+      "name": "Garlic Worker Ps4",
+      "file": "Payloads/garlic-worker-ps4.elf"
+    },
+    {
+      "id": "pl_garlic_worker_ps5",
+      "name": "Garlic Worker Ps5",
+      "file": "Payloads/garlic-worker-ps5.elf"
     },
     {
       "id": "pl_hwinfo_bench",
@@ -134,6 +154,36 @@
       "file": "Payloads/nanodns.elf"
     },
     {
+      "id": "pl_np_fake_signin_ps4",
+      "name": "Np Fake Signin Ps4",
+      "file": "Payloads/np-fake-signin-ps4.elf"
+    },
+    {
+      "id": "pl_np_fake_signin_ps5",
+      "name": "Np Fake Signin Ps5",
+      "file": "Payloads/np-fake-signin-ps5.elf"
+    },
+    {
+      "id": "pl_np_restore_account_ps4",
+      "name": "Np Restore Account Ps4",
+      "file": "Payloads/np-restore-account-ps4.elf"
+    },
+    {
+      "id": "pl_np_restore_account_ps5",
+      "name": "Np Restore Account Ps5",
+      "file": "Payloads/np-restore-account-ps5.elf"
+    },
+    {
+      "id": "pl_pegasus_dl",
+      "name": "Pegasus Dl",
+      "file": "Payloads/pegasus_dl.elf"
+    },
+    {
+      "id": "pldmgr_v0_3_1",
+      "name": "Pldmgr V0.3.1",
+      "file": "Payloads/pldmgr_v0.3.1.elf"
+    },
+    {
       "id": "pl_ps5_app_dumper",
       "name": "Ps5 App Dumper",
       "file": "Payloads/ps5-app-dumper.elf"
@@ -157,6 +207,21 @@
       "id": "pl_ps5_ps4fw_spoof_1",
       "name": "Ps5 Ps4Fw Spoof 1",
       "file": "Payloads/ps5-ps4fw-spoof-1.elf"
+    },
+    {
+      "id": "pl_ps5_homebrew_launcher_bootstrap",
+      "name": "Ps5 Homebrew Launcher Bootstrap",
+      "file": "Payloads/ps5_homebrew_launcher_bootstrap.elf"
+    },
+    {
+      "id": "pl_ps5_homebrew_launcher_ui_swonly",
+      "name": "Ps5 Homebrew Launcher Ui Swonly",
+      "file": "Payloads/ps5_homebrew_launcher_ui_swonly.elf"
+    },
+    {
+      "id": "pl_ps5upload_2_30_0",
+      "name": "Ps5Upload 2.30.0",
+      "file": "Payloads/ps5upload-2.30.0.elf"
     },
     {
       "id": "pl_shadowmountplus_1_06b14",
