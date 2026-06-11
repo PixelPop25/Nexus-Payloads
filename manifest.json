@@ -144,6 +144,11 @@
       "file": "Payloads/kstuff_Lite_1.2-dr_12.70.elf"
     },
     {
+      "id": "pl_lapy_jb_daemon",
+      "name": "Lapy Jb Daemon",
+      "file": "Payloads/lapy_jb_daemon.elf"
+    },
+    {
       "id": "pl_nanodns_ps4",
       "name": "Nanodns Ps4",
       "file": "Payloads/nanodns-ps4.elf"
