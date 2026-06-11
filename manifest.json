@@ -54,6 +54,11 @@
       "file": "Payloads/Dump_installer 1.0.6 Beta.elf"
     },
     {
+      "id": "pl_ghostcontrol_ps5",
+      "name": "Ghostcontrol Ps5",
+      "file": "Payloads/Ghostcontrol-ps5.elf"
+    },
+    {
       "id": "pl_kstuff_lite_1_07_beta",
       "name": "Kstuff Lite 1.07 Beta",
       "file": "Payloads/Kstuff Lite 1.07 Beta.elf"
