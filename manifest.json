@@ -84,11 +84,6 @@
       "file": "Payloads/etaHEN-2.5B.elf"
     },
     {
-      "id": "pl_etahen_2_6b",
-      "name": "Etahen 2.6B",
-      "file": "Payloads/etaHEN-2.6B.bin"
-    },
-    {
       "id": "pl_ezremote_dpi",
       "name": "Ezremote Dpi",
       "file": "Payloads/ezremote-dpi.elf"
