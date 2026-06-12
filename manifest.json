@@ -64,6 +64,11 @@
       "file": "Payloads/Kstuff Lite 1.07 Beta.elf"
     },
     {
+      "id": "pl_kstuff_lite_1_2_dr_test2_12_70",
+      "name": "Kstuff Lite 1.2 Dr Test2 12.70",
+      "file": "Payloads/Kstuff Lite 1.2-dr-test2 12.70.elf"
+    },
+    {
       "id": "pl_shadowmountplus_1_6test15_fix2",
       "name": "Shadowmountplus 1.6Test15 Fix2",
       "file": "Payloads/ShadowMountPlus_1.6test15-fix2.elf"
