@@ -164,11 +164,6 @@
       "file": "Payloads/nanodns-ps4.elf"
     },
     {
-      "id": "pl_nanodns",
-      "name": "Nanodns",
-      "file": "Payloads/nanodns.elf"
-    },
-    {
       "id": "pl_np_fake_signin_ps4",
       "name": "Np Fake Signin Ps4",
       "file": "Payloads/np-fake-signin-ps4.elf"
