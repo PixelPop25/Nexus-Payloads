@@ -199,11 +199,6 @@
       "file": "Payloads/patch-bundle-prospero.elf"
     },
     {
-      "id": "pl_pegasus_dl",
-      "name": "Pegasus Dl",
-      "file": "Payloads/pegasus_dl.elf"
-    },
-    {
       "id": "pldmgr_v0_3_1",
       "name": "Pldmgr V0.3.1",
       "file": "Payloads/pldmgr_v0.3.1.elf"
