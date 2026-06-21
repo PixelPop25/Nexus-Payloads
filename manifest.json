@@ -109,11 +109,6 @@
       "file": "Payloads/ezremote-dpi.elf"
     },
     {
-      "id": "pl_ftpsrv_ps5",
-      "name": "Ftpsrv Ps5",
-      "file": "Payloads/ftpsrv-ps5.elf"
-    },
-    {
       "id": "pl_garlic_savemgr_v1_10",
       "name": "Garlic Savemgr V1.10",
       "file": "Payloads/garlic-savemgr v1.10.elf"
