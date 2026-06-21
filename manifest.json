@@ -69,6 +69,11 @@
       "file": "Payloads/Kstuff Lite 1.2-dr-test2 12.70.elf"
     },
     {
+      "id": "pl_ps5_game_compresser_v1_0_3",
+      "name": "Ps5 Game Compresser V1.0.3",
+      "file": "Payloads/Ps5_Game_Compresser_v1.0.3.elf"
+    },
+    {
       "id": "pl_shadowmountplus_1_6test15_fix2",
       "name": "Shadowmountplus 1.6Test15 Fix2",
       "file": "Payloads/ShadowMountPlus_1.6test15-fix2.elf"
@@ -182,6 +187,26 @@
       "id": "pl_np_restore_account_ps5",
       "name": "Np Restore Account Ps5",
       "file": "Payloads/np-restore-account-ps5.elf"
+    },
+    {
+      "id": "pl_patch_bundle_loader_orbis",
+      "name": "Patch Bundle Loader Orbis",
+      "file": "Payloads/patch-bundle-loader-orbis.elf"
+    },
+    {
+      "id": "pl_patch_bundle_loader_prospero",
+      "name": "Patch Bundle Loader Prospero",
+      "file": "Payloads/patch-bundle-loader-prospero.elf"
+    },
+    {
+      "id": "pl_patch_bundle_orbis",
+      "name": "Patch Bundle Orbis",
+      "file": "Payloads/patch-bundle-orbis.elf"
+    },
+    {
+      "id": "pl_patch_bundle_prospero",
+      "name": "Patch Bundle Prospero",
+      "file": "Payloads/patch-bundle-prospero.elf"
     },
     {
       "id": "pl_pegasus_dl",
