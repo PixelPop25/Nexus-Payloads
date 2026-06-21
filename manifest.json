@@ -229,11 +229,6 @@
       "file": "Payloads/ps5-ps4fw-spoof-1.elf"
     },
     {
-      "id": "pl_ps5_homebrew_launcher_bootstrap",
-      "name": "Ps5 Homebrew Launcher Bootstrap",
-      "file": "Payloads/ps5_homebrew_launcher_bootstrap.elf"
-    },
-    {
       "id": "pl_ps5_homebrew_launcher_ui_swonly",
       "name": "Ps5 Homebrew Launcher Ui Swonly",
       "file": "Payloads/ps5_homebrew_launcher_ui_swonly.elf"
