@@ -109,6 +109,16 @@
       "file": "Payloads/ezremote-dpi.elf"
     },
     {
+      "id": "pl_ftpsrv_ps4",
+      "name": "Ftpsrv Ps4",
+      "file": "Payloads/ftpsrv-ps4.elf"
+    },
+    {
+      "id": "pl_ftpsrv_ps5",
+      "name": "Ftpsrv Ps5",
+      "file": "Payloads/ftpsrv-ps5.elf"
+    },
+    {
       "id": "pl_garlic_savemgr_v1_10",
       "name": "Garlic Savemgr V1.10",
       "file": "Payloads/garlic-savemgr v1.10.elf"
@@ -152,6 +162,16 @@
       "id": "pl_lapy_jb_daemon",
       "name": "Lapy Jb Daemon",
       "file": "Payloads/lapy_jb_daemon.elf"
+    },
+    {
+      "id": "pl_nanodns_ps4",
+      "name": "Nanodns Ps4",
+      "file": "Payloads/nanodns-ps4.elf"
+    },
+    {
+      "id": "pl_nanodns",
+      "name": "Nanodns",
+      "file": "Payloads/nanodns.elf"
     },
     {
       "id": "pl_np_fake_signin_ps4",
@@ -237,6 +257,11 @@
       "id": "pl_voidshell",
       "name": "Voidshell",
       "file": "Payloads/voidshell.elf"
+    },
+    {
+      "id": "pl_web_file_mgr_v0_6",
+      "name": "Web File Mgr V0.6",
+      "file": "Payloads/web-file-mgr-v0.6.elf"
     }
   ]
 }
