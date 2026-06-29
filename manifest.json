@@ -74,6 +74,11 @@
       "file": "Payloads/Ps5_Game_Compresser_v1.0.3.elf"
     },
     {
+      "id": "pl_shadowmountplus_1_6beta16",
+      "name": "Shadowmountplus 1.6Beta16",
+      "file": "Payloads/ShadowMountPlus_1.6beta16.elf"
+    },
+    {
       "id": "pl_shadowmountplus_1_6test15_fix2",
       "name": "Shadowmountplus 1.6Test15 Fix2",
       "file": "Payloads/ShadowMountPlus_1.6test15-fix2.elf"
