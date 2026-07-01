@@ -239,6 +239,11 @@
       "file": "Payloads/ps5-hen.elf"
     },
     {
+      "id": "pl_ps5_linux_loader_7_61_fw",
+      "name": "Ps5 Linux Loader 7.61 Fw",
+      "file": "Payloads/ps5-linux-loader 7.61 FW.elf"
+    },
+    {
       "id": "pl_ps5_linux_loader",
       "name": "Ps5 Linux Loader",
       "file": "Payloads/ps5-linux-loader.elf"
