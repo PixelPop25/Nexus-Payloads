@@ -159,11 +159,6 @@
       "file": "Payloads/kstuff_1.0.7_test2.elf"
     },
     {
-      "id": "pl_kstuff_1_0_9",
-      "name": "Kstuff 1.0.9",
-      "file": "Payloads/kstuff_1.0.9.elf"
-    },
-    {
       "id": "pl_kstuff_1_6_7_10_01",
       "name": "Kstuff 1.6.7 10.01",
       "file": "Payloads/kstuff_1.6.7_10.01.elf"
