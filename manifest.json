@@ -59,6 +59,11 @@
       "file": "Payloads/Ghostcontrol-ps5.elf"
     },
     {
+      "id": "pl_ghostcontrol_v1_0_5",
+      "name": "Ghostcontrol V1.0.5",
+      "file": "Payloads/Ghostcontrol_v1.0.5.elf"
+    },
+    {
       "id": "pl_kstuff_lite_1_07_beta",
       "name": "Kstuff Lite 1.07 Beta",
       "file": "Payloads/Kstuff Lite 1.07 Beta.elf"
@@ -152,6 +157,11 @@
       "id": "pl_kstuff_1_0_7_test2",
       "name": "Kstuff 1.0.7 Test2",
       "file": "Payloads/kstuff_1.0.7_test2.elf"
+    },
+    {
+      "id": "pl_kstuff_1_0_9",
+      "name": "Kstuff 1.0.9",
+      "file": "Payloads/kstuff_1.0.9.elf"
     },
     {
       "id": "pl_kstuff_1_6_7_10_01",
