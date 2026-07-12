@@ -224,6 +224,11 @@
       "file": "Payloads/patch-bundle-prospero.elf"
     },
     {
+      "id": "pl_pegasus_dl_with_nanodns",
+      "name": "Pegasus Dl With Nanodns",
+      "file": "Payloads/pegasus_dl with_nanodns.elf"
+    },
+    {
       "id": "pldmgr_v0_3_1",
       "name": "Pldmgr V0.3.1",
       "file": "Payloads/pldmgr_v0.3.1.elf"
