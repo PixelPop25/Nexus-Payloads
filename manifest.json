@@ -89,6 +89,11 @@
       "file": "Payloads/ShadowMountPlus_1.6test15-fix2.elf"
     },
     {
+      "id": "pl_shadowmountplus_1_7alpha1",
+      "name": "Shadowmountplus 1.7Alpha1",
+      "file": "Payloads/ShadowMountPlus_1.7alpha1.elf"
+    },
+    {
       "id": "pl_bypervisor5xx",
       "name": "Bypervisor5Xx",
       "file": "Payloads/bypervisor5XX.elf"
