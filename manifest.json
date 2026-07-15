@@ -149,11 +149,6 @@
       "file": "Payloads/garlic-worker-ps5.elf"
     },
     {
-      "id": "pl_hwinfo_bench",
-      "name": "Hwinfo Bench",
-      "file": "Payloads/hwinfo_bench.elf"
-    },
-    {
       "id": "pl_kstuff_1_0_7_test2",
       "name": "Kstuff 1.0.7 Test2",
       "file": "Payloads/kstuff_1.0.7_test2.elf"
