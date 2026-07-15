@@ -269,11 +269,6 @@
       "file": "Payloads/ps5upload-2.30.0.elf"
     },
     {
-      "id": "pl_shadowmountplus_1_06b14",
-      "name": "Shadowmountplus 1.06B14",
-      "file": "Payloads/shadowmountplus_1.06b14.elf"
-    },
-    {
       "id": "pl_voidshell",
       "name": "Voidshell",
       "file": "Payloads/voidshell.elf"
