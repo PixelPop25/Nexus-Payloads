@@ -159,11 +159,6 @@
       "file": "Payloads/kstuff_1.6.7_10.01.elf"
     },
     {
-      "id": "pl_kstuff_lite_1_2_dr_12_70",
-      "name": "Kstuff Lite 1.2 Dr 12.70",
-      "file": "Payloads/kstuff_Lite_1.2-dr_12.70.elf"
-    },
-    {
       "id": "pl_lapy_jb_daemon",
       "name": "Lapy Jb Daemon",
       "file": "Payloads/lapy_jb_daemon.elf"
