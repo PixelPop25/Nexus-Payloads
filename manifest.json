@@ -94,11 +94,6 @@
       "file": "Payloads/ShadowMountPlus_1.7alpha1.elf"
     },
     {
-      "id": "pl_bypervisor5xx",
-      "name": "Bypervisor5Xx",
-      "file": "Payloads/bypervisor5XX.elf"
-    },
-    {
       "id": "pl_dump_installer",
       "name": "Dump Installer",
       "file": "Payloads/dump_installer.elf"
