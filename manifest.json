@@ -49,6 +49,11 @@
       "file": "Payloads/CheatRunner.elf"
     },
     {
+      "id": "pl_cheatrunner_0_12_2mb",
+      "name": "Cheatrunner 0.12 2Mb",
+      "file": "Payloads/CheatRunner_0.12_2mb.elf"
+    },
+    {
       "id": "pl_dump_installer_1_0_6_beta",
       "name": "Dump Installer 1.0.6 Beta",
       "file": "Payloads/Dump_installer 1.0.6 Beta.elf"
