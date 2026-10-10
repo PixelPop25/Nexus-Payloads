@@ -39,6 +39,11 @@
   ],
   "payloads": [
     {
+      "id": "pl_onionhen",
+      "name": "Onionhen",
+      "file": "Payloads/OnionHEN.elf"
+    },
+    {
       "id": "pl_shadowmountplus_1_7beta4",
       "name": "Shadowmountplus 1.7Beta4",
       "file": "Payloads/ShadowMountPlus 1.7beta4.elf"
@@ -54,9 +59,24 @@
       "file": "Payloads/a53_ppr_install_fw_11_60_20.09.elf"
     },
     {
+      "id": "pl_bfpilot",
+      "name": "Bfpilot",
+      "file": "Payloads/bfpilot.elf"
+    },
+    {
+      "id": "pl_elfldr_ps5_0_23",
+      "name": "Elfldr Ps5 0.23",
+      "file": "Payloads/elfldr-ps5-0.23.elf"
+    },
+    {
       "id": "pl_kstuff_1_13_fpkg_dr_test5",
       "name": "Kstuff 1.13 Fpkg Dr Test5",
       "file": "Payloads/kstuff-1.13-fpkg-dr-test5.elf"
+    },
+    {
+      "id": "pl_ps5upload_5_34_0",
+      "name": "Ps5Upload 5.34.0",
+      "file": "Payloads/ps5upload-5.34.0.elf"
     }
   ]
 }
