@@ -39,11 +39,6 @@
   ],
   "payloads": [
     {
-      "id": "pl_shadowmountplus_1_7beta3",
-      "name": "Shadowmountplus 1.7Beta3",
-      "file": "Payloads/ShadowMountPlus 1.7beta3.elf"
-    },
-    {
       "id": "pl_shadowmountplus_1_7beta4",
       "name": "Shadowmountplus 1.7Beta4",
       "file": "Payloads/ShadowMountPlus 1.7beta4.elf"
