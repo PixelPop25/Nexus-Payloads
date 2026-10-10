@@ -39,6 +39,11 @@
   ],
   "payloads": [
     {
+      "id": "pl_ghostcontrol_v1_0_5",
+      "name": "Ghostcontrol V1.0.5",
+      "file": "Payloads/Ghostcontrol_v1.0.5.elf"
+    },
+    {
       "id": "pl_onionhen",
       "name": "Onionhen",
       "file": "Payloads/OnionHEN.elf"
@@ -69,14 +74,39 @@
       "file": "Payloads/elfldr-ps5-0.23.elf"
     },
     {
+      "id": "pl_ftpsrv_ps4",
+      "name": "Ftpsrv Ps4",
+      "file": "Payloads/ftpsrv-ps4.elf"
+    },
+    {
+      "id": "pl_ftpsrv_ps5",
+      "name": "Ftpsrv Ps5",
+      "file": "Payloads/ftpsrv-ps5.elf"
+    },
+    {
       "id": "pl_kstuff_1_13_fpkg_dr_test5",
       "name": "Kstuff 1.13 Fpkg Dr Test5",
       "file": "Payloads/kstuff-1.13-fpkg-dr-test5.elf"
     },
     {
+      "id": "pl_nanodns_ps4",
+      "name": "Nanodns Ps4",
+      "file": "Payloads/nanodns-ps4.elf"
+    },
+    {
+      "id": "pl_nanodns",
+      "name": "Nanodns",
+      "file": "Payloads/nanodns.elf"
+    },
+    {
       "id": "pl_ps5upload_5_34_0",
       "name": "Ps5Upload 5.34.0",
       "file": "Payloads/ps5upload-5.34.0.elf"
+    },
+    {
+      "id": "pl_web_file_mgr_v0_6",
+      "name": "Web File Mgr V0.6",
+      "file": "Payloads/web-file-mgr-v0.6.elf"
     }
   ]
 }
