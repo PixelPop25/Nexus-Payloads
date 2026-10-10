@@ -39,6 +39,11 @@
   ],
   "payloads": [
     {
+      "id": "pl_cheatrunnerv0_17",
+      "name": "Cheatrunnerv0.17",
+      "file": "Payloads/CheatRunnerv0.17.elf"
+    },
+    {
       "id": "pl_ghostcontrol_v1_0_5",
       "name": "Ghostcontrol V1.0.5",
       "file": "Payloads/Ghostcontrol_v1.0.5.elf"
