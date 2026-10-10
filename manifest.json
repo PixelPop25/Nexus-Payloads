@@ -16,11 +16,6 @@
       "id": "y2_lapse",
       "name": "Lapse",
       "file": "Y2JB/lapse.js"
-    },
-    {
-      "id": "y2_p2jb",
-      "name": "P2Jb",
-      "file": "Y2JB/p2jb.js"
     }
   ],
   "lua": [
