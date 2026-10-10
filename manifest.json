@@ -16,6 +16,11 @@
       "id": "y2_lapse",
       "name": "Lapse",
       "file": "Y2JB/lapse.js"
+    },
+    {
+      "id": "y2_relapse",
+      "name": "Relapse",
+      "file": "Y2JB/relapse.js"
     }
   ],
   "lua": [
