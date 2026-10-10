@@ -42,11 +42,6 @@
       "id": "pl_shadowmountplus_1_7beta3",
       "name": "Shadowmountplus 1.7Beta3",
       "file": "Payloads/ShadowMountPlus 1.7beta3.elf"
-    },
-    {
-      "id": "pl_kstuff_1_13_fpkg_dr_test5",
-      "name": "Kstuff 1.13 Fpkg Dr Test5",
-      "file": "Payloads/kstuff-1.13-fpkg-dr-test5.elf"
     }
   ]
 }
