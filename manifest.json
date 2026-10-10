@@ -37,5 +37,11 @@
       "file": "YarP2JB/p2jb.py"
     }
   ],
-  "payloads": []
+  "payloads": [
+    {
+      "id": "pl_h",
+      "name": "H",
+      "file": "Payloads/H"
+    }
+  ]
 }
