@@ -44,11 +44,6 @@
       "file": "Payloads/ShadowMountPlus 1.7beta3.elf"
     },
     {
-      "id": "pl_a53_ppr_install_fw_11_60_20_09",
-      "name": "A53 Ppr Install Fw 11 60 20.09",
-      "file": "Payloads/a53_ppr_install_fw_11_60_20.09.elf"
-    },
-    {
       "id": "pl_kstuff_1_13_fpkg_dr_test5",
       "name": "Kstuff 1.13 Fpkg Dr Test5",
       "file": "Payloads/kstuff-1.13-fpkg-dr-test5.elf"
