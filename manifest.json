@@ -99,6 +99,16 @@
       "file": "Payloads/nanodns.elf"
     },
     {
+      "id": "pl_patch_bundle_loader_orbis",
+      "name": "Patch Bundle Loader Orbis",
+      "file": "Payloads/patch-bundle-loader-orbis.elf"
+    },
+    {
+      "id": "pl_patch_bundle_loader_prospero",
+      "name": "Patch Bundle Loader Prospero",
+      "file": "Payloads/patch-bundle-loader-prospero.elf"
+    },
+    {
       "id": "pl_ps5upload_5_34_0",
       "name": "Ps5Upload 5.34.0",
       "file": "Payloads/ps5upload-5.34.0.elf"
