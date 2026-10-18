@@ -74,6 +74,11 @@
       "file": "Payloads/bfpilot.elf"
     },
     {
+      "id": "pl_bond_server_0_2_0",
+      "name": "Bond Server 0.2.0",
+      "file": "Payloads/bond-server-0.2.0.elf"
+    },
+    {
       "id": "pl_elfldr_ps5_0_23",
       "name": "Elfldr Ps5 0.23",
       "file": "Payloads/elfldr-ps5-0.23.elf"
@@ -92,6 +97,11 @@
       "id": "pl_kstuff_1_13_fpkg_dr_test5",
       "name": "Kstuff 1.13 Fpkg Dr Test5",
       "file": "Payloads/kstuff-1.13-fpkg-dr-test5.elf"
+    },
+    {
+      "id": "pl_lz4_compression",
+      "name": "Lz4 Compression",
+      "file": "Payloads/lz4-compression.elf"
     },
     {
       "id": "pl_nanodns_ps4",
