@@ -104,6 +104,11 @@
       "file": "Payloads/nanodns.elf"
     },
     {
+      "id": "pl_neo_manager",
+      "name": "Neo Manager",
+      "file": "Payloads/neo-manager.elf"
+    },
+    {
       "id": "pl_patch_bundle_loader_orbis",
       "name": "Patch Bundle Loader Orbis",
       "file": "Payloads/patch-bundle-loader-orbis.elf"
@@ -112,6 +117,16 @@
       "id": "pl_patch_bundle_loader_prospero",
       "name": "Patch Bundle Loader Prospero",
       "file": "Payloads/patch-bundle-loader-prospero.elf"
+    },
+    {
+      "id": "pl_patch_bundle_orbis",
+      "name": "Patch Bundle Orbis",
+      "file": "Payloads/patch-bundle-orbis.elf"
+    },
+    {
+      "id": "pl_patch_bundle_prospero",
+      "name": "Patch Bundle Prospero",
+      "file": "Payloads/patch-bundle-prospero.elf"
     },
     {
       "id": "pldmgr_v061",
