@@ -44,6 +44,11 @@
       "file": "Payloads/CheatRunnerv0.17.elf"
     },
     {
+      "id": "pl_cheatrunnerv0_18",
+      "name": "Cheatrunnerv0.18",
+      "file": "Payloads/CheatRunnerv0.18.elf"
+    },
+    {
       "id": "pl_ghostcontrol_v1_0_5",
       "name": "Ghostcontrol V1.0.5",
       "file": "Payloads/Ghostcontrol_v1.0.5.elf"
