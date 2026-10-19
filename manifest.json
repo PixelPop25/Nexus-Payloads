@@ -84,6 +84,11 @@
       "file": "Payloads/bond-server-0.2.0.elf"
     },
     {
+      "id": "pl_byepervisor_reborn_1",
+      "name": "Byepervisor Reborn 1",
+      "file": "Payloads/byepervisor_reborn-1.elf"
+    },
+    {
       "id": "pl_elfldr_ps5_0_23",
       "name": "Elfldr Ps5 0.23",
       "file": "Payloads/elfldr-ps5-0.23.elf"
@@ -137,6 +142,11 @@
       "id": "pldmgr_v061",
       "name": "Pldmgr V061",
       "file": "Payloads/pldmgr_v061.elf"
+    },
+    {
+      "id": "pl_ps5_app_dumper_v2_10",
+      "name": "Ps5 App Dumper V2.10",
+      "file": "Payloads/ps5-app-dumper_v2.10.elf"
     },
     {
       "id": "pl_ps5upload_5_34_0",
