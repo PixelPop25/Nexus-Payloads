@@ -144,6 +144,11 @@
       "file": "Payloads/pldmgr_v061.elf"
     },
     {
+      "id": "pl_ps4mount",
+      "name": "Ps4Mount",
+      "file": "Payloads/ps4mount.elf"
+    },
+    {
       "id": "pl_ps5_app_dumper_v2_10",
       "name": "Ps5 App Dumper V2.10",
       "file": "Payloads/ps5-app-dumper_v2.10.elf"
