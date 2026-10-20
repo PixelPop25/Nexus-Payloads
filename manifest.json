@@ -139,6 +139,11 @@
       "file": "Payloads/patch-bundle-prospero.elf"
     },
     {
+      "id": "pl_pegasus_dl",
+      "name": "Pegasus Dl",
+      "file": "Payloads/pegasus_dl.elf"
+    },
+    {
       "id": "pldmgr_v061",
       "name": "Pldmgr V061",
       "file": "Payloads/pldmgr_v061.elf"
@@ -157,6 +162,11 @@
       "id": "pl_ps5upload_5_34_0",
       "name": "Ps5Upload 5.34.0",
       "file": "Payloads/ps5upload-5.34.0.elf"
+    },
+    {
+      "id": "pl_ps5upload_7_1_9",
+      "name": "Ps5Upload 7.1.9",
+      "file": "Payloads/ps5upload-7.1.9.elf"
     },
     {
       "id": "pl_web_file_mgr_v0_6",
